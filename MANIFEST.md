@@ -1,0 +1,40 @@
+# Référentiel documentaire canonique v1.0.0
+
+## Documents normatifs
+
+Ordre de lecture obligatoire :
+
+1. docs/A.md
+2. docs/B.md
+3. docs/C.md
+4. docs/D.md
+5. docs/E.md
+6. docs/F.md
+7. docs/G.md
+8. docs/H.md
+9. docs/I.md
+10. docs/J.md
+11. docs/K.md
+12. docs/L.md
+13. docs/M.md
+14. docs/N.md
+15. docs/O.md
+
+## Documents complémentaires
+
+- annexes/Annexe A.md
+- annexes/Annexe B.md
+- annexes/Annexe C.md
+- annexes/Annexe D.md
+
+## Règle d'interprétation
+
+Le référentiel canonique correspond à
+l'ensemble des documents normatifs ci-dessus.
+
+Les annexes complètent le référentiel
+mais ne remplacent jamais un document normatif.
+
+En cas de conflit :
+
+docs > annexes
