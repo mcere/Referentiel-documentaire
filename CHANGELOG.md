@@ -6,24 +6,23 @@
 
 - MANIFEST.md
 - INDEX.md
+- docs/00-Resolution.md
+
+### Documentation
+
+- Définition explicite du Référentiel documentaire canonique.
+- Définition des documents normatifs.
+- Définition des documents complémentaires.
+- Définition de l'ordre de lecture du référentiel.
+- Définition des règles de priorité documentaire.
 
 ### Amélioré
 
-- Définition explicite du référentiel canonique.
-- Définition des documents normatifs.
-- Définition des documents complémentaires.
-- Clarification de l'ordre de lecture.
-- Clarification des règles de priorité documentaire.
+- Amélioration de la reconstruction automatique du référentiel par les IA.
+- Clarification de la gouvernance documentaire.
+- Clarification de la structure du dépôt.
 
-## [1.0.0] - 2026-07-13
+### Compatibilité
 
-### Ajout
-- Première version officielle du Référentiel documentaire canonique.
-
-### Documentation
-- Structure docs/
-- Annexes
-- Audits
-
-### Notes
-- Première publication stable.
+- Compatible avec v1.0.0.
+- Aucun changement aux directives normatives existantes.
