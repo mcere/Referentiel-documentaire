@@ -1,10 +1,25 @@
 # Referentiel-documentaire
 Ensemble des directives utilisées pour la recherche d'information et de sources sur une IAg
 
-## à propos de l'auteur et de l'utilisation du référentiel
-© 2026 Michel Céré
+## Licence
 Ce référentiel est publié sous licence
-4CC BY-NC-SA 4.0
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0).
+
+Vous pouvez :
+
+- copier le contenu ;
+- le redistribuer ;
+- le modifier ;
+- créer des œuvres dérivées ;
+
+à condition :
+
+- d'attribuer la source ;
+- de ne pas l'utiliser à des fins commerciales ;
+- de distribuer les œuvres dérivées sous la même licence.
+
+Texte complet :
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Comment l'utiliser?
@@ -19,6 +34,6 @@ Source: https://github.com/mcere/Referentiel-documentaire
 La création de cette version du référentiel documentaire a été créé à la suite de nombreux échanges avec CoPilot entre le 10 et le 13 juillet 2026.
 Une frustration grandissante à chaque utilisation de l'IA faisait en sorte qu'il me fallait une façon de poser des questions plus intelligeamment à une IA... qui somme toute n'est pas toujour très intelligente!
 Bref, d'où l'idée et l'intérêt de créer ce réfentiel documentaire... et en français.
-Puisqu'une bonne partie du référentiel a été rédigé par CoPilot, je ne peux m'approprier la paternité de ce qui est produit.  C'est pourquoi j'ai décidé d'appliquer la licence la plus ouverte afin que tous puissent en bénéficier.
-En espérant que ça vous aide!
+Puisqu'une bonne partie du référentiel a été rédigé par CoPilot, je ne peux m'approprier la paternité de tout ce qui est produit.  C'est pourquoi j'ai décidé d'appliquer une licence qui permettra à pas mal tout le monde de l'utiliser et de l'améliorer.
 Puisque c'est ma première "oeuvre" publique et ouverte et si vous souhaitez porter des améliorations, n'hésitez pas à me contacter.
+En espérant que ça vous aide!
