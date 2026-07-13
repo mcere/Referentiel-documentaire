@@ -1,5 +1,11 @@
 # Changelog
+## [1.0.3]
 
+### Documentation
+
+- Clarification de l'utilisation du référentiel dans README.md.
+- Référence explicite à MANIFEST.md comme point d'entrée canonique.
+  
 ## [1.0.2] - 2026-07-13
 
 ### Ajouté
