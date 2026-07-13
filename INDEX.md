@@ -6,6 +6,26 @@ Le contenu normatif officiel du référentiel est défini par :
 
 Le présent index a pour objectif de faciliter la navigation dans le dépôt.
 
+## Avertissement
+
+INDEX.md est un document de navigation.
+
+Le contenu normatif officiel du référentiel est défini par :
+
+- MANIFEST.md
+
+Le manifeste prévaut toujours en cas de divergence.
+
+## Avertissement
+
+INDEX.md est un document de navigation.
+
+Le contenu normatif officiel du référentiel est défini par :
+
+- MANIFEST.md
+
+Le manifeste prévaut toujours en cas de divergence.
+
 ---
 
 # Documents normatifs
