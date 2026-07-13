@@ -37,23 +37,10 @@ Texte complet :
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Comment l'utiliser?
-Utiliser le Référentiel documentaire canonique v1.0.0.
+Utiliser le Référentiel documentaire canonique v1.0.2 (ou indiquer la version recherchée)
 
 Source :
-https://github.com/mcere/Referentiel-documentaire/releases/tag/v1.0.0
-
-Le référentiel est défini par le fichier MANIFEST.md.
-
-Pour toute analyse :
-
-1. Lire MANIFEST.md.
-2. Charger tous les documents normatifs.
-3. Charger les annexes applicables.
-4. Reconstituer le référentiel complet avant de répondre.
-5. Signaler tout document inaccessible.
-
-Utiliser le Référentiel documentaire canonique v1.0.0
-Source: https://github.com/mcere/Referentiel-documentaire
+https://github.com/mcere/Referentiel-documentaire/releases/tag/v1.0.2
 
 ### ou
 Utiliser la dernière release officielle du Référentiel documentaire.
