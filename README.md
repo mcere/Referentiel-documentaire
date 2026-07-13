@@ -1,6 +1,12 @@
 # Referentiel-documentaire
 Ensemble des directives utilisées pour la recherche d'information et de sources sur une IAg
 
+## à propos de l'auteur et de l'utilisation du référentiel
+© 2026 Michel Céré
+Ce référentiel est publié sous licence
+4CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 ## Comment l'utiliser?
 Utiliser le Référentiel documentaire canonique v1.0.0
 Source: https://github.com/mcere/Referentiel-documentaire
