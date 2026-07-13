@@ -1,4 +1,18 @@
 # Référentiel documentaire canonique v1.0.0
+
+## Autorité du manifeste
+
+Le présent document constitue le point d'entrée officiel du
+Référentiel documentaire canonique.
+
+Toute IA ou tout utilisateur appliquant le référentiel doit :
+
+- consulter le manifeste ;
+- identifier les documents normatifs ;
+- appliquer les procédures définies dans ce manifeste.
+
+Le manifeste prévaut sur tout document de navigation.
+
 ## Procédure d'application du référentiel
 
 Lorsqu'une demande indique :
