@@ -1,34 +1,4 @@
-# Référentiel documentaire canonique v1.0.0
-
-## Autorité du manifeste
-
-Le présent document constitue le point d'entrée officiel du
-Référentiel documentaire canonique.
-
-Toute IA ou tout utilisateur appliquant le référentiel doit :
-
-- consulter le manifeste ;
-- identifier les documents normatifs ;
-- appliquer les procédures définies dans ce manifeste.
-
-Le manifeste prévaut sur tout document de navigation.
-
-## Procédure d'application du référentiel
-
-Lorsqu'une demande indique :
-
-"Utiliser le Référentiel documentaire canonique vX.Y.Z"
-
-les étapes suivantes doivent être appliquées :
-
-1. Charger le présent manifeste.
-2. Identifier les documents normatifs.
-3. Charger les documents normatifs.
-4. Charger les documents complémentaires applicables.
-5. Reconstituer le référentiel complet.
-6. Appliquer toutes les directives compatibles.
-7. Signaler tout document inaccessible.
-
+# Référentiel documentaire canonique
 ## Documents normatifs
 
 Ordre de lecture obligatoire :
@@ -58,12 +28,73 @@ Ordre de lecture obligatoire :
 
 ## Règle d'interprétation
 
-Le référentiel canonique correspond à
-l'ensemble des documents normatifs ci-dessus.
+Le présent manifeste constitue la définition officielle du Référentiel documentaire canonique.
 
-Les annexes complètent le référentiel
-mais ne remplacent jamais un document normatif.
+Le référentiel canonique correspond :
+
+- au présent manifeste ;
+- aux documents normatifs qu'il référence.
+
+Les annexes complètent le référentiel mais ne remplacent jamais un document normatif.
 
 En cas de conflit :
 
 docs > annexes
+
+
+# Procédure d'application du référentiel
+
+Lorsqu'une demande indique :
+
+"Utiliser le Référentiel documentaire canonique vX.Y.Z"
+
+les étapes suivantes doivent être appliquées :
+
+1. Charger le présent manifeste.
+2. Identifier les documents normatifs.
+3. Charger tous les documents normatifs.
+4. Charger les documents complémentaires applicables.
+5. Reconstituer le référentiel complet.
+6. Identifier les directives applicables.
+7. Appliquer toutes les directives compatibles.
+8. Signaler explicitement tout document inaccessible.
+9. Limiter les conclusions à la partie effectivement consultée.
+10. Identifier les audits ou analyses rendus incomplets par les éléments manquants.
+
+## Autorité du manifeste
+
+Le présent document constitue le point d'entrée officiel du Référentiel documentaire canonique.
+
+Toute IA ou tout utilisateur appliquant le référentiel doit :
+
+- consulter le manifeste ;
+- identifier les documents normatifs ;
+- appliquer les procédures définies dans ce manifeste.
+
+Le manifeste prévaut sur :
+
+- INDEX.md ;
+- README.md ;
+- tout document de navigation.
+
+En cas de divergence :
+
+En cas de divergence :
+
+1. MANIFEST.md
+2. Documents normatifs
+3. Annexes
+4. INDEX.md
+5. README.md
+6. Autres documents de navigation
+
+## Portée
+
+Le présent manifeste définit :
+
+- les documents constitutifs du référentiel ;
+- les règles d'interprétation ;
+- les règles d'application ;
+- la hiérarchie documentaire.
+
+Toute directive non incluse dans un document normatif ne fait pas partie du référentiel canonique.
