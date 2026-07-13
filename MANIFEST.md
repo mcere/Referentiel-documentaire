@@ -1,4 +1,19 @@
 # Référentiel documentaire canonique v1.0.0
+## Procédure d'application du référentiel
+
+Lorsqu'une demande indique :
+
+"Utiliser le Référentiel documentaire canonique vX.Y.Z"
+
+les étapes suivantes doivent être appliquées :
+
+1. Charger le présent manifeste.
+2. Identifier les documents normatifs.
+3. Charger les documents normatifs.
+4. Charger les documents complémentaires applicables.
+5. Reconstituer le référentiel complet.
+6. Appliquer toutes les directives compatibles.
+7. Signaler tout document inaccessible.
 
 ## Documents normatifs
 
