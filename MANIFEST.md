@@ -1,4 +1,6 @@
 # Référentiel documentaire canonique
+Version courante : voir VERSION.md
+
 ## Documents normatifs
 
 Ordre de lecture obligatoire :
