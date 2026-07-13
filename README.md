@@ -37,10 +37,14 @@ Texte complet :
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Comment l'utiliser?
-Utiliser le Référentiel documentaire canonique v1.0.2 (ou indiquer la version recherchée)
 
 Source :
-https://github.com/mcere/Referentiel-documentaire/releases/tag/v1.0.2
+Utiliser le Référentiel documentaire canonique v1.0.2  [ou indiquer la version recherchée]
+
+Source :
+https://github.com/mcere/Referentiel-documentaire
+
+Le référentiel est défini par MANIFEST.md.
 
 ### ou
 Utiliser la dernière release officielle du Référentiel documentaire.
