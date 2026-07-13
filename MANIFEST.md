@@ -100,3 +100,17 @@ Le présent manifeste définit :
 - la hiérarchie documentaire.
 
 Toute directive non incluse dans un document normatif ne fait pas partie du référentiel canonique.
+
+## Génération du document canonique
+
+Le document compilé :
+
+Referentiel-documentaire-canonique-vX.Y.Z.md
+
+doit être généré à partir :
+
+- du présent manifeste ;
+- de tous les documents normatifs ;
+- des annexes référencées.
+
+L'ordre de compilation correspond à l'ordre de lecture défini dans le manifeste.
