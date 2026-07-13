@@ -1,6 +1,20 @@
 # Referentiel-documentaire
 Ensemble des directives utilisées pour la recherche d'information et de sources sur une IAg
 
+## Référentiel canonique
+
+Le référentiel canonique officiel est décrit dans :
+
+MANIFEST.md
+
+Ce document indique :
+
+- quels fichiers composent le référentiel ;
+- l'ordre de lecture ;
+- les documents normatifs ;
+- les annexes ;
+- les règles de priorité.
+
 ## Licence
 Ce référentiel est publié sous licence
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
