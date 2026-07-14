@@ -29,7 +29,7 @@ Le présent manifeste demeure indépendant du numéro de version.
 ## Documents normatifs
 
 Ordre de lecture obligatoire :
-
+0. docs/00-Resolution.md
 1. docs/A.md
 2. docs/B.md
 3. docs/C.md
