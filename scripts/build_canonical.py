@@ -23,7 +23,7 @@ lines = []
 lines.append("# Référentiel documentaire compilé\n")
 lines.append(f"Version : {version}\n\n")
 
-lines.append("---\n\n")
+lines.append("\n\n# MANIFESTE\n\n")
 
 lines.append(
     (ROOT / "MANIFEST.md").read_text(
@@ -31,7 +31,7 @@ lines.append(
     )
 )
 
-lines.append("\n\n---\n\n")
+lines.append("\n\n# DOCUMENTS DU RÉFÉRENTIEL\n\n")
 
 files = re.findall(
     r"(docs/[A-Z]\.md|annexes/Annexe\s+[A-Z]\.md)",
