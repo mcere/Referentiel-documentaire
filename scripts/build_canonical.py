@@ -26,10 +26,10 @@ lines.append(
     "## Ressources du projet\n\n"
     "- [Site du référentiel](https://mcere.github.io/Referentiel-documentaire/)\n"
     "- [Dépôt GitHub](https://github.com/mcere/Referentiel-documentaire)\n"
-    "- [README](https://github.com/mcere/Referentiel-documentaire)\n"
-    "- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire)\n"
-    "- [VERSION](https://github.com/mcere/Referentiel-documentaire)\n"
-    "- [LICENCE](https://github.com/mcere/Referentiel-documentaire)\n"
+    "- [README](https://github.com/mcere/Referentiel-documentaire/blob/main/README.md)\n"
+    "- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire/blob/main/CHANGELOG.md)\n"
+    "- [VERSION](https://github.com/mcere/Referentiel-documentaire/blob/main/VERSION.md)\n"
+    "- [LICENCE](https://github.com/mcere/Referentiel-documentaire/blob/main/LICENCE)\n"
 )
 
 lines.append("## Ressources du projet\n\n")
