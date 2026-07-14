@@ -3987,14 +3987,13 @@ Toute extension future doit demeurer compatible avec ces matrices.
 # Source : annexes/Annexe D.md
 
 # Annexe D — Rapport de conformité documentaire
-## Référentiel Documentaire IA 40.x
-### Lot 11 — Édition canonique candidate
+## Référentiel documentaire canonique
 
 ---
 
 # D.1 Objet
 
-La présente annexe définit le format officiel de rapport de conformité documentaire du Référentiel Documentaire IA 40.x.
+La présente annexe définit le format officiel de rapport de conformité documentaire du Référentiel documentaire canonique
 
 Le rapport de conformité permet :
 
@@ -4452,14 +4451,12 @@ Base de connaissances
 
 # D.17 Autorité du rapport
 
-Les modèles définis dans la présente annexe constituent les formats officiels de rapport de conformité du Référentiel Documentaire IA 40.x.
+Les modèles définis dans la présente annexe constituent les formats officiels de rapport de conformité du Référentiel documentaire canonique
 
 Toute implémentation future doit demeurer compatible avec ces modèles.
 
 ---
 
 # Fin de l'Annexe D
-# Lot 11 — Rapport de conformité documentaire
-
 
 
