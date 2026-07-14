@@ -36,6 +36,22 @@ Ordre de lecture obligatoire :
 - annexes/Annexe C.md
 - annexes/Annexe D.md
 
+## Documents de gouvernance
+
+Les documents suivants ne font pas partie du référentiel normatif mais constituent la documentation officielle du projet :
+
+- README.md
+- LICENSE
+- CHANGELOG.md
+- VERSION.md
+
+Ces documents fournissent respectivement :
+
+- la présentation du projet ;
+- les conditions de licence ;
+- l'historique des versions ;
+- la version officielle du référentiel.
+
 ## Règle d'interprétation
 
 Le présent manifeste constitue la définition officielle du Référentiel documentaire canonique.
