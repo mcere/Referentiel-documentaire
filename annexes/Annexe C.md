@@ -34,6 +34,7 @@ Les dimensions doivent être évaluées séparément :
 Les dimensions suivantes sont indépendantes :
 
 ```text
+
 Preuve
 
 Confiance
@@ -109,6 +110,7 @@ Exemples :
 ## C.4.1 Très élevé
 
 ```text
+
 ★★★★★ Très élevé
 ```
 
@@ -123,6 +125,7 @@ Conditions typiques :
 ## C.4.2 Élevé
 
 ```text
+
 ★★★★☆ Élevé
 ```
 
@@ -136,6 +139,7 @@ Conditions typiques :
 ## C.4.3 Modéré
 
 ```text
+
 ★★★☆☆ Modéré
 ```
 
@@ -149,6 +153,7 @@ Conditions typiques :
 ## C.4.4 Faible
 
 ```text
+
 ★★☆☆☆ Faible
 ```
 
@@ -162,6 +167,7 @@ Conditions typiques :
 ## C.4.5 Très faible
 
 ```text
+
 ★☆☆☆☆ Très faible
 ```
 
@@ -240,6 +246,7 @@ Une confiance très élevée ne doit normalement pas être attribuée à une pre
 Cas valide :
 
 ```text
+
 Attribution : Authentifiée
 
 Confiance : Très élevée
@@ -343,6 +350,7 @@ la source de priorité la plus élevée prévaut.
 Ordre d'arbitrage :
 
 ```text
+
 1. Source primaire
 
 2. Qualité méthodologique
@@ -361,6 +369,7 @@ Ordre d'arbitrage :
 Lorsque les éléments demeurent équivalents :
 
 ```text
+
 Consensus documentaire absent.
 ```
 
@@ -373,6 +382,7 @@ doit être utilisé.
 Ordre de réduction recommandé :
 
 ```text
+
 1. Nombre d'unités
 
 2. Périmètre de l'analyse
@@ -385,6 +395,7 @@ Ordre de réduction recommandé :
 Avant de réduire :
 
 ```text
+
 Références
 
 Confiance
@@ -433,6 +444,7 @@ Conditions :
 Le niveau global doit tenir compte :
 
 ```text
+
 Qualité moyenne
 
 +
