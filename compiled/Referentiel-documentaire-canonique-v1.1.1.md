@@ -1310,6 +1310,7 @@ Le concept central :
 #### Exemple
 
 ```text
+
 Concept central
 
 La résistance au changement provient souvent
@@ -1347,6 +1348,7 @@ Les mots-clés :
 #### Exemple
 
 ```text
+
 Mots-clés
 
 - changement
