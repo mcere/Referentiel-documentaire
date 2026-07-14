@@ -30,6 +30,10 @@ jobs:
         run: |
           python scripts/build_canonical.py
 
+      - name: Show compiled files
+        run: |
+          ls -la compiled
+
       - name: Install Pandoc
         run: |
           sudo apt-get update
