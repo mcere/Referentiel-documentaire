@@ -30,6 +30,7 @@ lines.append(
     "- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire)\n"
     "- [VERSION](https://github.com/mcere/Referentiel-documentaire)\n"
     "- [LICENCE](https://github.com/mcere/Referentiel-documentaire)\n"
+)
 
 lines.append("## Ressources du projet\n\n")
 
