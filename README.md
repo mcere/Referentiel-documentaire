@@ -36,8 +36,7 @@ Vous pouvez :
 Texte complet :
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-## Comment l'utiliser?
-
+## Comment l'utiliser pour qu'une IA soit obliger de vérifier adéquatement ses sources?
 
 Utiliser le Référentiel documentaire canonique v1.1.0
 
