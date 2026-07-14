@@ -36,7 +36,7 @@ Modes typiques :
 
 ### A.3 Déclaration du mode
 
-Lorsque les directives 40.1x sont utilisées, la réponse doit commencer par :
+Lorsque les directives du Référentiel documentaire canonique sont utilisées, la réponse doit commencer par :
 
 ```text
 Mode détecté :
