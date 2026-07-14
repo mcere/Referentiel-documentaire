@@ -1,10 +1,25 @@
 # Changelog
-## [1.1.1]
 
-### Documentation
+## v1.1.1
 
-- Clarification de l'utilisation du référentiel dans README.md.
-- Ajouts pour automatiser la publication sur GitHub Page du référentiel (https://mcere.github.io/Referentiel-documentaire/)
+### Ajouts
+
+- Génération automatique de Referentiel-documentaire-canonique-latest.md.
+- Publication automatique sur GitHub Pages.
+- Ajout de la section Documents de gouvernance.
+- Intégration de docs/00-Resolution.md.
+
+### Améliorations
+
+- Renforcement du rôle du manifeste.
+- Amélioration du workflow de publication.
+- Amélioration des liens de gouvernance.
+
+### Corrections
+
+- Correction de la compilation des documents référencés.
+- Correction du workflow GitHub Actions.
+- Correction du déploiement GitHub Pages.
 
 ## [1.1.0]
 
