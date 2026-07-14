@@ -1602,7 +1602,7 @@ Le niveau global doit tenir compte :
 
 ### J.1 Objectif
 
-Les réponses conformes aux directives 40.1x doivent non seulement être documentées et vérifiables, mais également :
+Les réponses conformes aux directives du Référentiel documentaire canonique doivent non seulement être documentées et vérifiables, mais également :
 
 * faciles à consulter ;
 * faciles à comparer ;
