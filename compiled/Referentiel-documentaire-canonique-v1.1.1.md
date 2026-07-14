@@ -695,7 +695,7 @@ même si la nouvelle demande ne le précise pas explicitement.
 
 ### B.10 Traçabilité méthodologique
 
-Lorsque les directives 40.1x sont utilisées, les métadonnées suivantes doivent pouvoir être identifiées :
+Lorsque les directives du Référentiel documentaire canonique sont utilisées, les métadonnées suivantes doivent pouvoir être identifiées :
 
 ```text
 Mode détecté
