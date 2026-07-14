@@ -51,22 +51,38 @@ jobs:
         run: |
           nl -ba compiled/Referentiel-documentaire-canonique-latest.md | head -20
           
-      - name: Generate PDF
+      - name: Generate PDF (disabled)
         run: |
+          echo "PDF generation temporarily disabled"
+#
+#          mkdir -p release-assets
+#
+#          cp compiled/*.md release-assets/
+#
+#          pandoc \
+#            compiled/Referentiel-documentaire-canonique-latest.md 
+#            -o release-assets/Referentiel-documentaire.pdf
 
+      - name: Generate HTML
+        run: |
           mkdir -p release-assets
 
           cp compiled/*.md release-assets/
 
           pandoc \
-            compiled/Referentiel-documentaire-canonique-latest.md 
-            -o release-assets/Referentiel-documentaire.pdf
+            --from=gfm \
+            compiled/Referentiel-documentaire-canonique-latest.md \
+            -o release-assets/index.html
             
       - name: Build HTML
         run: |
           pandoc \
             compiled/Referentiel-documentaire-canonique-latest.md \
             -o release-assets/index.html
+
+      - name: Upload Pages Artifact
+
+      - name: Deploy to GitHub Pages
             
       - name: Upload workflow artifacts
         uses: actions/upload-artifact@v4
@@ -90,4 +106,5 @@ jobs:
           path: release-assets
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
