@@ -53,6 +53,7 @@ Réévaluer :
 Documenter :
 
 ```text
+
 Mode détecté
 
 Directives appliquées
