@@ -2484,7 +2484,7 @@ Aucune étape obligatoire ne doit être ignorée sans justification explicite.
 
 ### O.1 Objectif
 
-Définir le comportement attendu d'un système appliquant le cadre documentaire 40.x.
+Définir le comportement attendu d'un système appliquant le Référentiel documentaire canonique
 
 ---
 
