@@ -47,13 +47,15 @@ jobs:
         run: |
           head -40 compiled/Referentiel-documentaire-canonique-latest.md
 
-      - name: Search YAML separators
+      - name: Search YAML separators (disabled)
         run: |
-          grep -n "^---$" compiled/Referentiel-documentaire-canonique-latest.md || true
+          echo "Search YAML separators temporarily disabled"
+#          grep -n "^---$" compiled/Referentiel-documentaire-canonique-latest.md || true
 
-      - name: Show first 20 lines with numbers
+      - name: Show first 20 lines with numbers (disabled)
         run: |
-          nl -ba compiled/Referentiel-documentaire-canonique-latest.md | head -20
+          echo "Show first 20 lines with numbers temporarily disabled"
+#          nl -ba compiled/Referentiel-documentaire-canonique-latest.md | head -20
           
       - name: Generate PDF (disabled)
         run: |
@@ -66,12 +68,15 @@ jobs:
 #          pandoc \
 #            compiled/Referentiel-documentaire-canonique-latest.md 
 #            -o release-assets/Referentiel-documentaire.pdf
-
       - name: Generate HTML
         run: |
           mkdir -p release-assets
 
           cp compiled/*.md release-assets/
+          cp README.md release-assets/
+          cp LICENSE release-assets/
+          cp CHANGELOG.md release-assets/
+          cp VERSION.md release-assets/
 
           pandoc \
             --from=gfm \
