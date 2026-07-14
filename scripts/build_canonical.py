@@ -32,15 +32,6 @@ lines.append(
     "- [LICENCE](https://github.com/mcere/Referentiel-documentaire/blob/main/LICENCE)\n"
 )
 
-lines.append("## Ressources du projet\n\n")
-
-lines.append(
-    "- [README](README.md)\n"
-    "- LICENCE\n"
-    "- CHANGELOG.md\n"
-    "- [VERSION](VERSION.md)\n\n"
-)
-
 lines.append(
     "Ces documents ne font pas partie du référentiel normatif "
     "mais constituent la documentation officielle du projet.\n\n"
