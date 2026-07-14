@@ -931,12 +931,14 @@ Le statut d'attribution doit toujours être explicitement indiqué.
 Une citation peut être :
 
 ```text
+
 Correctement attribuée
 ```
 
 sans être
 
 ```text
+
 Authentifiée textuellement.
 ```
 
