@@ -38,27 +38,6 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Utilisation du référentiel
 
-## Version recommandée
-
-Utiliser la version publiée du Référentiel documentaire canonique :
-
-https://mcere.github.io/Referentiel-documentaire/
-
-Appliquer toutes les directives contenues dans le document canonique.
-
----
-
-## Version spécifique
-
-Utiliser le Référentiel documentaire canonique vX.Y.Z.
-
-Source :
-https://github.com/mcere/Referentiel-documentaire/releases
-
-Appliquer toutes les directives contenues dans le document canonique correspondant à cette version.
-
----
-
 ## Source officielle
 
 Le dépôt GitHub constitue la source officielle du référentiel :
@@ -88,23 +67,23 @@ https://mcere.github.io/Referentiel-documentaire/compiled/Referentiel-documentai
 
 Toutefois, afin de garantir l'application du référentiel, il est recommandé de fournir directement à l'IA le document canonique compilé correspondant à la version désirée.
 
-## Un message de l'auteur
+# Un message de l'auteur
 
-### Quand ce référential a vu le jour?
+## Quand ce référential a vu le jour?
 
 La création de cette version du référentiel documentaire a été créé à la suite de nombreux échanges avec CoPilot entre le 10 et le 13 juillet 2026.
 
-### Pourquoi construire ce référentiel?
+## Pourquoi construire ce référentiel?
 
 Une frustration grandissante à chaque utilisation de l'IA faisait en sorte qu'il me fallait une façon de poser des questions plus intelligeamment à une IA... qui somme toute n'est pas toujour très intelligente!
 
 Bref, d'où l'idée et l'intérêt de créer ce réfentiel documentaire... et en français.
 
-### Qui est véritablement l'auteur de ce référentiel?
+## Qui est véritablement l'auteur de ce référentiel?
 
 Puisqu'une bonne partie du référentiel a été rédigé par CoPilot, je ne peux m'approprier la paternité de tout ce qui est produit.  C'est pourquoi j'ai décidé d'appliquer une licence qui permettra à pas mal tout le monde de l'utiliser et de l'améliorer.
 
-### Le mot de la fin...
+## Le mot de la fin...
 
 Puisque c'est ma première "oeuvre" publique et ouverte et si vous souhaitez porter des améliorations, n'hésitez pas à me contacter.
 
