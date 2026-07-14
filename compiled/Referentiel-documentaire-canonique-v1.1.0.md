@@ -3,10 +3,10 @@ Version : v1.1.0
 
 ## Ressources du projet
 
-- README.md
+- [README](README.md)
 - LICENSE
 - CHANGELOG.md
-- VERSION.md
+- [VERSION](VERSION.md)
 
 Ces documents ne font pas partie du référentiel normatif mais constituent la documentation officielle du projet.
 
