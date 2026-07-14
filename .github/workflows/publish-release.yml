@@ -46,6 +46,10 @@ jobs:
       - name: Search YAML separators
         run: |
           grep -n "^---$" compiled/Referentiel-documentaire-canonique-latest.md || true
+
+      - name: Show first 20 lines with numbers
+        run: |
+          nl -ba compiled/Referentiel-documentaire-canonique-latest.md | head -20
           
       - name: Generate PDF
         run: |
