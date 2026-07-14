@@ -39,6 +39,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
 
+      - name: Show generated file
+        run: |
+          head -40 compiled/Referentiel-documentaire-canonique-latest.md
+          
       - name: Generate PDF
         run: |
 
