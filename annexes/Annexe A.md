@@ -79,6 +79,7 @@ Reproduction textuelle attribuée à une source identifiée ou supposée.
 Synonyme autorisé :
 
 ```text
+
 Niveau de confiance
 ```
 
@@ -169,6 +170,7 @@ Classification du degré d'achèvement documentaire d'une unité.
 Valeurs autorisées :
 
 ```text
+
 Complet
 
 Partiellement complet
@@ -185,6 +187,7 @@ Mesure synthétique de la robustesse documentaire.
 Échelle officielle :
 
 ```text
+
 ★★★★★ Très élevé
 
 ★★★★☆ Élevé
@@ -205,6 +208,7 @@ Mesure synthétique de la robustesse documentaire.
 Valeurs autorisées :
 
 ```text
+
 Élevé
 
 Modéré
@@ -305,6 +309,7 @@ Résultat de l'évaluation documentaire d'une attribution.
 Valeurs autorisées :
 
 ```text
+
 Authentifiée
 
 Probable
@@ -381,6 +386,7 @@ Capacité d'un tiers indépendant à reproduire une vérification documentaire.
 Les états documentaires autorisés sont :
 
 ```text
+
 Non retrouvée
 
 Identifiée
