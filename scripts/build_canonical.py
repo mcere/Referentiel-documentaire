@@ -27,7 +27,7 @@ lines.append("## Ressources du projet\n\n")
 
 lines.append(
     "- [README](README.md)\n"
-    "- LICENSE\n"
+    "- LICENCE\n"
     "- CHANGELOG.md\n"
     "- [VERSION](VERSION.md)\n\n"
 )
