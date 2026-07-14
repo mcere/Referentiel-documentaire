@@ -28,7 +28,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: referentiel-canonique
-          path: artifacts/
+          path: compiled/
       - name: Commit generated file
         run: |
           git config --global user.name "github-actions"
