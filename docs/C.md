@@ -29,12 +29,14 @@ Toute source utilisée doit être identifiée.
 Préciser :
 
 ```text
+
 Source identifiée
 ```
 
 ou
 
 ```text
+
 Source consultée
 ```
 
@@ -85,6 +87,7 @@ L'état documentaire doit être affiché lorsqu'il apporte une information perti
 Exemple
 
 ```text
+
 SOURCE PRIMAIRE
 
 État documentaire : Consultée
