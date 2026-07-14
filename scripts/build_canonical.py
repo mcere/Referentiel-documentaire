@@ -23,15 +23,13 @@ lines = []
 lines.append("# Référentiel documentaire compilé\n")
 lines.append(f"Version : {version}\n\n")
 
-lines.append(
-    "## Ressources du projet\n\n"
-)
+lines.append("## Ressources du projet\n\n")
 
 lines.append(
-    "- README.md\n"
+    "- [README](README.md)\n"
     "- LICENSE\n"
     "- CHANGELOG.md\n"
-    "- VERSION.md\n\n"
+    "- [VERSION](VERSION.md)\n\n"
 )
 
 lines.append(
