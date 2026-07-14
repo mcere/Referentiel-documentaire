@@ -5,6 +5,8 @@ La version officielle du référentiel est définie dans :
 
 VERSION.md
 
+Cependant, le document compilé constitue la version de référence destinée aux systèmes automatisés.
+
 Le présent manifeste demeure indépendant du numéro de version.
 
 ## Documents normatifs
