@@ -1,7 +1,9 @@
 # Référentiel documentaire compilé
 Version : v1.1.0
 
----
+
+
+# MANIFESTE
 
 # Référentiel documentaire canonique
 ## Version du référentiel
@@ -127,7 +129,7 @@ doit être généré à partir :
 L'ordre de compilation correspond à l'ordre de lecture défini dans le manifeste.
 
 
----
+# DOCUMENTS DU RÉFÉRENTIEL
 
 
 
