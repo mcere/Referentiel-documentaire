@@ -59,7 +59,7 @@ Les documents complémentaires complètent le référentiel mais ne le remplacen
 | MANIFEST.md | Définition officielle du référentiel canonique |
 | CHANGELOG.md | Historique des modifications |
 | VERSION.md | Version courante du référentiel |
-| LICENSE | Conditions d'utilisation |
+| LICENCE | Conditions d'utilisation |
 | INDEX.md | Index documentaire du dépôt |
 
 ---
