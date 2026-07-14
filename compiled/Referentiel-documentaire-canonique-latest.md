@@ -1504,6 +1504,7 @@ Toutes les unités d'un même corpus doivent partager :
 Les unités doivent être regroupées selon J.17 :
 
 ```text
+
 Niveau A
 Niveau B
 Niveau C
@@ -1567,6 +1568,7 @@ La synthèse doit inclure :
 Exemple
 
 ```text
+
 Résumé des conclusions
 
 Le corpus met en évidence quatre facteurs majeurs de résistance au changement.
@@ -1603,6 +1605,7 @@ Partiellement complet
 La fiche de synthèse du corpus doit inclure :
 
 ```text
+
 Niveau global de confiance
 
 Très élevé
@@ -1615,6 +1618,7 @@ Très faible
 Et
 
 ```text
+
 Niveau global de complétude documentaire
 
 Complet
