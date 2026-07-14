@@ -423,5 +423,3 @@ Toute modification future d'une définition doit être propagée à l'ensemble d
 ---
 
 # Fin de l'Annexe A
-# Lot 8 — Glossaire documentaire
-
