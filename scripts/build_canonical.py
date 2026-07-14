@@ -63,4 +63,15 @@ output_file.write_text(
     encoding="utf-8"
 )
 
+latest_file = (
+    COMPILED /
+    "Referentiel-documentaire-canonique-latest.md"
+)
+
+latest_file.write_text(
+    "".join(lines),
+    encoding="utf-8"
+)
+
 print(f"Generated: {output_file}")
+print(f"Generated: {latest_file}")
