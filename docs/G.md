@@ -34,6 +34,7 @@ Une traduction publiée est une traduction produite et diffusée par un éditeur
 Exemples
 
 ```text
+
 Traduction publiée
 
 Traduction Gallimard
@@ -62,6 +63,7 @@ La traduction doit :
 Exemple
 
 ```text
+
 Type de traduction : Traduction personnelle
 ```
 
@@ -82,6 +84,7 @@ Les adaptations doivent être signalées.
 Exemple
 
 ```text
+
 Type de traduction : Traduction adaptée
 ```
 
@@ -104,6 +107,7 @@ Une traduction libre ne doit jamais être présentée comme une traduction exact
 Exemple
 
 ```text
+
 Type de traduction : Traduction libre
 ```
 
@@ -157,6 +161,7 @@ Le choix de la formulation retenue doit être justifié lorsqu'une variante conc
 Exemple
 
 ```text
+
 Variante principale :
 
 To improve is to change;
