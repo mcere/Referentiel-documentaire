@@ -22,6 +22,14 @@ lines = []
 
 lines.append("# Référentiel documentaire compilé\n")
 lines.append(f"Version : {version}\n\n")
+lines.append(
+    "## Ressources du projet\n\n"
+    "- [Site du référentiel](https://mcere.github.io/Referentiel-documentaire/)\n"
+    "- [Dépôt GitHub](https://github.com/mcere/Referentiel-documentaire)\n"
+    "- [README](https://github.com/mcere/Referentiel-documentaire)\n"
+    "- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire)\n"
+    "- [VERSION](https://github.com/mcere/Referentiel-documentaire)\n"
+    "- [LICENCE](https://github.com/mcere/Referentiel-documentaire)\n"
 
 lines.append("## Ressources du projet\n\n")
 
