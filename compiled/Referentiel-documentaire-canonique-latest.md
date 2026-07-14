@@ -4196,6 +4196,7 @@ Le résultat ne doit pas être présenté comme pleinement conforme.
 ## Format minimal
 
 ```text
+
 RAPPORT DE CONFORMITÉ
 
 Objet documentaire :
@@ -4228,6 +4229,7 @@ Conformité :
 ## Modèle
 
 ```text
+
 RAPPORT DE CONFORMITÉ
 
 Objet documentaire :
@@ -4276,6 +4278,7 @@ Conforme
 ## Modèle
 
 ```text
+
 RAPPORT DE CONFORMITÉ
 
 Objet documentaire :
@@ -4323,6 +4326,7 @@ Conforme
 ## Modèle
 
 ```text
+
 RAPPORT DE CONFORMITÉ
 
 Objet documentaire :
@@ -4369,6 +4373,7 @@ Partiellement conforme
 ## Modèle
 
 ```text
+
 RAPPORT DE CONFORMITÉ
 
 Objet documentaire :
@@ -4418,6 +4423,7 @@ Conforme
 Avant de déclarer une réponse conforme, vérifier :
 
 ```text
+
 □ Objet documentaire identifié
 
 □ Mode documentaire identifié
@@ -4444,6 +4450,7 @@ Avant de déclarer une réponse conforme, vérifier :
 Lorsque pertinent :
 
 ```text
+
 □ Attribution documentée
 
 □ Traduction documentée
@@ -4500,6 +4507,7 @@ Qualité ou provenance de traduction incertaine.
 Lorsque la demande est simple, le format suivant peut être utilisé.
 
 ```text
+
 Conformité :
 Conforme
 
@@ -4520,6 +4528,7 @@ Aucune limitation majeure
 Pour les analyses importantes, utiliser :
 
 ```text
+
 RAPPORT DE CONFORMITÉ
 
 Objet documentaire
@@ -4569,6 +4578,7 @@ Un auditeur documentaire doit être capable d'identifier :
 Les rapports de conformité doivent pouvoir être exportés vers :
 
 ```text
+
 Markdown
 
 DOCX
