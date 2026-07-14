@@ -1,12 +1,10 @@
 # Annexe B — Modèles documentaires officiels
-## Référentiel Documentaire IA 40.x
-### Lot 9 — Édition canonique candidate
-
+## Référentiel documentaire canonique
 ---
 
 # B.1 Objet
 
-La présente annexe regroupe les modèles documentaires officiels du Référentiel Documentaire IA 40.x.
+La présente annexe regroupe les modèles documentaires officiels du Référentiel documentaire canonique
 
 Ces modèles constituent la représentation normalisée des objets documentaires définis dans la section H.
 
@@ -522,12 +520,11 @@ sans perte majeure de structure documentaire.
 
 # B.10 Autorité des modèles
 
-Les modèles définis dans la présente annexe constituent les formats documentaires de référence du Référentiel Documentaire IA 40.x.
+Les modèles définis dans la présente annexe constituent les formats documentaires de référence du Référentiel documentaire canonique
 
 Toute extension future doit demeurer compatible avec ces modèles maîtres.
 
 ---
 
 # Fin de l'Annexe B
-# Lot 9 — Modèles documentaires officiels
 
