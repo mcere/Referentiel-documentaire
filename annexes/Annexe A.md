@@ -1,12 +1,10 @@
 # Annexe A — Glossaire documentaire
-## Référentiel Documentaire IA 40.x
-### Lot 8 — Édition canonique candidate
-
+## Référentiel documentaire canonique
 ---
 
 # A.1 Objet
 
-La présente annexe constitue la référence terminologique officielle du Référentiel Documentaire IA 40.x.
+La présente annexe constitue la référence terminologique officielle du Référentiel documentaire canonique
 
 Les définitions ci-dessous sont normatives.
 
@@ -418,7 +416,7 @@ Attribution contestée, marginale ou insuffisamment documentée.
 
 # A.6 Autorité du glossaire
 
-Le présent glossaire constitue l'autorité terminologique du Référentiel Documentaire IA 40.x.
+Le présent glossaire constitue l'autorité terminologique du Référentiel documentaire canonique
 
 Toute modification future d'une définition doit être propagée à l'ensemble du référentiel afin de maintenir la cohérence documentaire.
 
