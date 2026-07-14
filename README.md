@@ -81,17 +81,12 @@ https://github.com/mcere/Referentiel-documentaire
 
 ## Comment l'utiliser avec une IA soit obliger de vérifier adéquatement ses sources?
 
-Pour garantir l'application du référentiel, fournir directement à l'IA le document canonique correspondant à la version souhaitée.
+Le document canonique compilé constitue la version de référence destinée aux systèmes automatisés.
 
-Exemple :
+Source officielle :
+https://mcere.github.io/Referentiel-documentaire/compiled/Referentiel-documentaire-canonique-latest.md
 
-Referentiel-documentaire-canonique-v1.1.1.md
-
-ou
-
-Referentiel-documentaire-canonique-v1.1.1.pdf
-
-Ne pas présumer que l'IA pourra accéder automatiquement aux ressources externes.
+Toutefois, afin de garantir l'application du référentiel, il est recommandé de fournir directement à l'IA le document canonique compilé correspondant à la version désirée.
 
 ## Un message de l'auteur
 
