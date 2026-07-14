@@ -20,21 +20,22 @@ Les documents normatifs constituent le Référentiel documentaire canonique.
 
 | Ordre | Fichier | Sujet |
 |---------|---------|---------|
+| 00 | docs/00-Resolution.md | Directive de résolution du référentiel |
 | 01 | docs/A.md | Gouvernance méthodologique |
 | 02 | docs/B.md | Sélection et application des directives |
 | 03 | docs/C.md | Validation des sources |
-| 04 | docs/D.md | Vérification des affirmations |
-| 05 | docs/E.md | Recherche documentaire |
-| 06 | docs/F.md | Sources académiques et scientifiques |
-| 07 | docs/G.md | Citations |
+| 04 | docs/D.md | Attribution |
+| 05 | docs/E.md | Références |
+| 06 | docs/F.md | Validation des études et données |
+| 07 | docs/G.md | Validation des citations |
 | 08 | docs/H.md | Formats documentaires |
-| 09 | docs/I.md | Analyses historiques |
-| 10 | docs/J.md | Production de corpus documentaires |
-| 11 | docs/K.md | Traduction documentaire |
-| 12 | docs/L.md | Synthèse documentaire |
-| 13 | docs/M.md | Production pédagogique |
-| 14 | docs/N.md | Évaluation documentaire |
-| 15 | docs/O.md | Directives complémentaires |
+| 09 | docs/I.md | Gestion des réponses complexes |
+| 10 | docs/J.md | Présentation et lisibilité des résultats |
+| 11 | docs/K.md | Gestion des limites opérationnelles |
+| 12 | docs/L.md | Gouvernance de l'incertitude |
+| 13 | docs/M.md | Gestion des conflits documentaires |
+| 14 | docs/N.md | Procédure documentaire universelle |
+| 15 | docs/O.md | Modèle d'exécution pour IA |
 
 ---
 
@@ -70,22 +71,23 @@ Pour une compréhension complète du référentiel :
 
 1. README.md
 2. MANIFEST.md
-3. docs/A.md
-4. docs/B.md
-5. docs/C.md
-6. docs/D.md
-7. docs/E.md
-8. docs/F.md
-9. docs/G.md
-10. docs/H.md
-11. docs/I.md
-12. docs/J.md
-13. docs/K.md
-14. docs/L.md
-15. docs/M.md
-16. docs/N.md
-17. docs/O.md
-18. Annexes applicables
+3. docs/00-Resolution.md
+4. docs/A.md
+5. docs/B.md
+6. docs/C.md
+7. docs/D.md
+8. docs/E.md
+9. docs/F.md
+10. docs/G.md
+11. docs/H.md
+12. docs/I.md
+13. docs/J.md
+14. docs/K.md
+15. docs/L.md
+16. docs/M.md
+17. docs/N.md
+18. docs/O.md
+19. Annexes applicables
 
 ---
 
