@@ -66,7 +66,7 @@ Concept central
 
 La résistance au changement provient souvent
 des pertes perçues plutôt que du changement lui-même.
-
+```
 
 —
 
@@ -106,8 +106,8 @@ Mots-clés
 - résistance
 - apprentissage
 - leadership
+```
 
-—
 ### H.4 Étude
 
 Format étude :
