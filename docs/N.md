@@ -3,7 +3,7 @@
 
 ### N.1 Objectif
 
-Définir la procédure maîtresse du cadre documentaire 40.x.
+Définir la procédure maîtresse du Référentiel documentaire canonique
 
 ---
 
