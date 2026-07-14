@@ -4,7 +4,13 @@ Version : v1.1.0
 ---
 
 # Référentiel documentaire canonique
-Version courante : voir VERSION.md
+## Version du référentiel
+
+La version officielle du référentiel est définie dans :
+
+VERSION.md
+
+Le présent manifeste demeure indépendant du numéro de version.
 
 ## Documents normatifs
 
