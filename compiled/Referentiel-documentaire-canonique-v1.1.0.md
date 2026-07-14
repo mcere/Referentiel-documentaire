@@ -1757,7 +1757,7 @@ Leadership du changement
 Participation
 
 - citation 29
-
+```
 ---
 
 ### J.9 Références simplifiées et complètes
@@ -1916,7 +1916,7 @@ La carte documentaire est particulièrement adaptée :
 │ Attribution : Authentifiée         │
 │ Confiance : ★★★★★                  │
 └────────────────────────────────────┘
-
+```
 ### J.11 Références Web
 
 Lorsqu'une référence Web est utilisée :
