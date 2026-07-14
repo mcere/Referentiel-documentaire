@@ -1682,6 +1682,7 @@ Sauf indication contraire, privilégier un format de type fiche documentaire Mar
 Exemple :
 
 ```text
+
 # Citation
 
 ## Thème
@@ -1752,6 +1753,7 @@ fournir d'abord un tableau synthèse.
 Exemple :
 
 ```text
+
 Thème Auteur Confiance Complétude Statut
 
 Gestion du changement Tolstoï Très élevé Complet Authentifiée
@@ -1770,6 +1772,7 @@ Puis seulement après :
 Chaque fiche documentaire doit inclure :
 
 ```text
+
 thème ;
 auteur attribué ;
 statut d'attribution ;
@@ -1788,6 +1791,7 @@ Le niveau de confiance doit être présenté selon deux formes :
 #### Forme textuelle
 
 ```text
+
 Très élevé
 Élevé
 Modéré
@@ -1798,6 +1802,7 @@ Très faible
 #### Forme visuelle
 
 ```text
+
 ★★★★★ Très élevé
 ★★★★☆ Élevé
 ★★★☆☆ Modéré
@@ -1818,6 +1823,7 @@ Lorsque disponible, utiliser également les mots-clés normalisés comme second 
 Exemple :
 
 ```text
+
 Résistance au changement
 
 Perte
@@ -1850,12 +1856,14 @@ Trois niveaux de références doivent être disponibles.
 #### Référence courte
 
 ```text
+
 Tolstoï, Three Methods of Reform (1900)
 ```
 
 #### Référence complète
 
 ```text
+
 Tolstoy, Leo.
 
 Three Methods of Reform.
@@ -1870,6 +1878,7 @@ Free Age Press,
 #### Référence Web complète
 
 ```text
+
 Books on the Wall.
 
 Leo Tolstoy's Infamous Quote:
@@ -1890,6 +1899,7 @@ Consulté le 11 juillet 2026.
 Pour les corpus documentaires, utiliser prioritairement :
 
 ```text
+
 # THÈME
 
 ## AUTEUR ATTRIBUÉ
@@ -1976,6 +1986,7 @@ La carte documentaire est particulièrement adaptée :
 #### Exemple
 
 ```text
+
 ┌────────────────────────────────────┐
 │ Citation                           │
 ├────────────────────────────────────┤
@@ -2015,12 +2026,14 @@ Lorsqu'une référence Web est utilisée :
 #### Interdit
 
 ```text
+
 booksonthewall.com
 ```
 
 ou
 
 ```text
+
 Wikipedia
 ```
 
@@ -2029,6 +2042,7 @@ sans autre précision.
 #### Format recommandé
 
 ```text
+
 Books on the Wall.
 
 Leo Tolstoy's Infamous Quote:
@@ -2163,6 +2177,7 @@ Les deux évaluations doivent être présentées séparément.
 Exemple :
 
 ```text
+
 Statut d'attribution : Authentifiée
 
 Niveau de confiance : Très élevé
