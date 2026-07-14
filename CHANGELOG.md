@@ -1,4 +1,11 @@
 # Changelog
+## [1.1.1]
+
+### Documentation
+
+- Clarification de l'utilisation du référentiel dans README.md.
+- Ajouts pour automatiser la publication sur GitHub Page du référentiel (https://mcere.github.io/Referentiel-documentaire/)
+
 ## [1.1.0]
 
 ### Documentation
