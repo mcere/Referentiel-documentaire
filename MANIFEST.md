@@ -40,10 +40,10 @@ Ordre de lecture obligatoire :
 
 Les documents suivants ne font pas partie du référentiel normatif mais constituent la documentation officielle du projet :
 
-- README.md
+- [README](README.md)
 - LICENSE
-- CHANGELOG.md
-- VERSION.md
+- [CHANGELOG](CHANGELOG.md)
+- [VERSION](VERSION.md)
 
 Ces documents fournissent respectivement :
 
