@@ -17,7 +17,11 @@
 
 ### Corrections
 
-- Correction de la compilation des documents référencés.
+- Correction de la compilation des documents référencés dans le manifeste.
+- Intégration du document `docs/00-Resolution.md` dans le parcours documentaire officiel.
+- Harmonisation du fichier `INDEX.md` avec le manifeste.
+- Réalignement des titres et descriptions des documents normatifs dans l'index.
+- Alignement de l'ordre de lecture recommandé avec le référentiel officiel.
 - Correction du workflow GitHub Actions.
 - Correction du déploiement GitHub Pages.
 
