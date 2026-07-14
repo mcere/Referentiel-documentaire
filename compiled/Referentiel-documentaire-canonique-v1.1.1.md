@@ -5,10 +5,10 @@ Version : v1.1.1
 
 - [Site du référentiel](https://mcere.github.io/Referentiel-documentaire/)
 - [Dépôt GitHub](https://github.com/mcere/Referentiel-documentaire)
-- [README](https://github.com/mcere/Referentiel-documentaire)
-- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire)
-- [VERSION](https://github.com/mcere/Referentiel-documentaire)
-- [LICENCE](https://github.com/mcere/Referentiel-documentaire)
+- [README](https://github.com/mcere/Referentiel-documentaire/blob/main/README.md)
+- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire/blob/main/CHANGELOG.md)
+- [VERSION](https://github.com/mcere/Referentiel-documentaire/blob/main/VERSION.md)
+- [LICENCE](https://github.com/mcere/Referentiel-documentaire/blob/main/LICENCE)
 ## Ressources du projet
 
 - [README](README.md)
