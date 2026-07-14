@@ -210,6 +210,7 @@ Modes typiques :
 Lorsque les directives du Référentiel documentaire canonique sont utilisées, la réponse doit commencer par :
 
 ```text
+
 Mode détecté :
 
 - Validation de citation
@@ -219,6 +220,7 @@ Mode détecté :
 ou
 
 ```text
+
 Mode détecté :
 
 - Analyse historique
@@ -234,6 +236,7 @@ La réponse doit indiquer les principales directives utilisées.
 Exemple :
 
 ```text
+
 Directives appliquées :
 
 C
@@ -254,6 +257,7 @@ toutes les directives compatibles doivent être appliquées simultanément.
 Exemple :
 
 ```text
+
 Validation de citation
 +
 Traduction
@@ -284,12 +288,14 @@ Exemple :
 Après plusieurs validations de citations :
 
 ```text
+
 Donne-moi 10 autres citations.
 ```
 
 doit être interprété comme :
 
 ```text
+
 Donne-moi 10 autres citations validées.
 ```
 
@@ -319,12 +325,14 @@ Exemple :
 Conforme :
 
 ```text
+
 5 citations complètement documentées
 ```
 
 Non conforme :
 
 ```text
+
 20 citations partiellement documentées
 ```
 
@@ -414,6 +422,7 @@ Toute limitation documentaire importante doit être explicitement déclarée.
 Exemple :
 
 ```text
+
 Source primaire non retrouvée.
 L'attribution demeure probable.
 ```
@@ -427,6 +436,7 @@ L'attribution demeure probable.
 Exemple :
 
 ```text
+
 Conformité :
 
 C : Conforme
