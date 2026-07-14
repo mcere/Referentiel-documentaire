@@ -1,4 +1,11 @@
 # Changelog
+## [1.1.0]
+
+### Documentation
+
+- Clarification de l'utilisation du référentiel dans README.md.
+- Ajouts pour l'automatisation de la création d'un seul fichier Referentiel-documentaire-canonique-v1.1.0.md
+
 ## [1.0.3]
 
 ### Documentation
