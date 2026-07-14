@@ -1,19 +1,8 @@
 # Référentiel documentaire compilé
+
 Version : v1.1.1
 
-## Ressources du projet
-
-- [Site du référentiel](https://mcere.github.io/Referentiel-documentaire/)
-- [Dépôt GitHub](https://github.com/mcere/Referentiel-documentaire)
-- [README](https://github.com/mcere/Referentiel-documentaire/blob/main/README.md)
-- [CHANGELOG](https://github.com/mcere/Referentiel-documentaire/blob/main/CHANGELOG.md)
-- [VERSION](https://github.com/mcere/Referentiel-documentaire/blob/main/VERSION.md)
-- [LICENCE](https://github.com/mcere/Referentiel-documentaire/blob/main/LICENCE)
-Ces documents ne font pas partie du référentiel normatif mais constituent la documentation officielle du projet.
-
-
-
-# MANIFESTE
+## MANIFESTE
 
 # Référentiel documentaire canonique
 ## Version du référentiel
@@ -154,11 +143,31 @@ doit être généré à partir :
 L'ordre de compilation correspond à l'ordre de lecture défini dans le manifeste.
 
 
-# DOCUMENTS DU RÉFÉRENTIEL
+## DOCUMENTS DU RÉFÉRENTIEL
 
 
 
-# Source : docs/A.md
+## Source : docs/00-Resolution.md
+
+# Directive de résolution du référentiel
+
+Lorsqu'une demande indique :
+
+Utiliser le Référentiel documentaire canonique vX.Y.Z
+
+les étapes suivantes doivent être appliquées :
+
+1. Lire MANIFEST.md.
+2. Charger tous les documents normatifs.
+3. Charger les annexes applicables.
+4. Reconstituer le référentiel complet.
+5. Effectuer l'analyse ou l'audit.
+6. Signaler tout document inaccessible.
+
+
+
+
+## Source : docs/A.md
 
 # A Gouvernance méthodologique
 ## Édition canonique candidate
@@ -454,7 +463,7 @@ Lorsque plusieurs formats sont possibles, privilégier le format offrant le meil
 
 
 
-# Source : docs/B.md
+## Source : docs/B.md
 
 # B Sélection et application des directives
 ## Édition canonique candidate
@@ -753,7 +762,7 @@ J Présentation documentaire
 
 
 
-# Source : docs/C.md
+## Source : docs/C.md
 
 # C Validation des sources
 ## Édition canonique candidate
@@ -851,7 +860,7 @@ SOURCE PRIMAIRE
 
 
 
-# Source : docs/D.md
+## Source : docs/D.md
 
 # D Attribution
 ## Édition canonique candidate
@@ -906,7 +915,7 @@ Cette distinction doit être documentée.
 
 
 
-# Source : docs/E.md
+## Source : docs/E.md
 
 # E Références
 ## Édition canonique candidate
@@ -968,7 +977,7 @@ L'absence de référence doit être signalée explicitement.
 
 
 
-# Source : docs/F.md
+## Source : docs/F.md
 
 # F Validation des études et données
 ## Édition canonique candidate
@@ -1013,7 +1022,7 @@ Présenter explicitement les incertitudes documentées.
 
 
 
-# Source : docs/G.md
+## Source : docs/G.md
 
 # G Validation des citations
 ## Édition canonique candidate
@@ -1196,7 +1205,7 @@ Version la plus fréquemment documentée.
 
 
 
-# Source : docs/H.md
+## Source : docs/H.md
 
 # H Formats documentaires
 ## Édition canonique candidate
@@ -1378,7 +1387,7 @@ Inclure :
 
 
 
-# Source : docs/I.md
+## Source : docs/I.md
 
 # I Gestion des réponses complexes
 ## Édition canonique candidate
@@ -1587,7 +1596,7 @@ Le niveau global doit tenir compte :
 
 
 
-# Source : docs/J.md
+## Source : docs/J.md
 
 # J Présentation et lisibilité des résultats
 ## Édition canonique candidate
@@ -2157,7 +2166,7 @@ si sa documentation est exhaustive mais son attribution demeure incertaine.
 
 
 
-# Source : docs/K.md
+## Source : docs/K.md
 
 # K Gestion des limites opérationnelles
 ## Édition canonique candidate
@@ -2225,7 +2234,7 @@ Lorsqu'une limitation opérationnelle influence le résultat, documenter :
 
 
 
-# Source : docs/L.md
+## Source : docs/L.md
 
 # L Gouvernance de l'incertitude
 ## Édition canonique candidate
@@ -2285,7 +2294,7 @@ retenir l'interprétation la plus prudente compatible avec les sources disponibl
 
 
 
-# Source : docs/M.md
+## Source : docs/M.md
 
 # M Gestion des conflits documentaires
 ## Édition canonique candidate
@@ -2369,7 +2378,7 @@ Conclusion
 
 
 
-# Source : docs/N.md
+## Source : docs/N.md
 
 # N Procédure documentaire universelle
 ## Édition canonique candidate
@@ -2469,7 +2478,7 @@ Aucune étape obligatoire ne doit être ignorée sans justification explicite.
 
 
 
-# Source : docs/O.md
+## Source : docs/O.md
 
 # O Modèle d'exécution pour IA
 ## Édition canonique candidate
@@ -2570,7 +2579,7 @@ Le système doit pouvoir appliquer les directives A à O sans dépendance à des
 
 
 
-# Source : annexes/Annexe A.md
+## Source : annexes/Annexe A.md
 
 # Annexe A — Glossaire documentaire
 ## Référentiel documentaire canonique
@@ -3001,7 +3010,7 @@ Toute modification future d'une définition doit être propagée à l'ensemble d
 
 
 
-# Source : annexes/Annexe B.md
+## Source : annexes/Annexe B.md
 
 # Annexe B — Modèles documentaires officiels
 ## Référentiel documentaire canonique
@@ -3537,7 +3546,7 @@ Toute extension future doit demeurer compatible avec ces modèles maîtres.
 
 
 
-# Source : annexes/Annexe C.md
+## Source : annexes/Annexe C.md
 
 # Annexe C — Matrices décisionnelles
 ## Référentiel documentaire canonique
@@ -4019,7 +4028,7 @@ Toute extension future doit demeurer compatible avec ces matrices.
 
 
 
-# Source : annexes/Annexe D.md
+## Source : annexes/Annexe D.md
 
 # Annexe D — Rapport de conformité documentaire
 ## Référentiel documentaire canonique
