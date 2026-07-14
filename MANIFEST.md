@@ -67,7 +67,6 @@ En cas de conflit :
 
 docs > annexes
 
-
 # Procédure d'application du référentiel
 
 Lorsqu'une demande indique :
