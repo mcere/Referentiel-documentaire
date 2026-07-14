@@ -36,33 +36,81 @@ Vous pouvez :
 Texte complet :
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-## Comment l'utiliser pour qu'une IA soit obliger de vérifier adéquatement ses sources?
+# Utilisation du référentiel
 
-Utiliser le Référentiel documentaire canonique v1.1.0
+## Version recommandée
+
+Utiliser la version publiée du Référentiel documentaire canonique :
+
+https://mcere.github.io/Referentiel-documentaire/
+
+Appliquer toutes les directives contenues dans le document canonique.
+
+---
+
+## Version spécifique
+
+Utiliser le Référentiel documentaire canonique vX.Y.Z.
 
 Source :
-Utiliser le Référentiel documentaire canonique v1.1.0  [ou indiquer la version recherchée]
+https://github.com/mcere/Referentiel-documentaire/releases
 
+Appliquer toutes les directives contenues dans le document canonique correspondant à cette version.
 
-Document canonique :
-releases/Referentiel-documentaire-canonique-v1.1.0.md
+---
 
-Le document canonique constitue l'intégralité du référentiel.
+## Source officielle
 
-Appliquer toutes les directives contenues dans ce document.
+Le dépôt GitHub constitue la source officielle du référentiel :
 
+https://github.com/mcere/Referentiel-documentaire
 
+Les documents normatifs sont maintenus sous forme modulaire.
 
-### ou une version plus courte si l'IA a déjà eu accès au document
-Utiliser le Référentiel documentaire canonique v1.1.0
+Le document canonique compilé constitue la version de référence destinée aux systèmes automatisés.
 
-Document canonique :
-Referentiel-documentaire-canonique-v1.1.0.md
+## Consultation du référentiel
+
+Version publiée :
+
+https://mcere.github.io/Referentiel-documentaire/
+
+Source officielle :
+
+https://github.com/mcere/Referentiel-documentaire
+
+## Comment l'utiliser avec une IA soit obliger de vérifier adéquatement ses sources?
+
+Pour garantir l'application du référentiel, fournir directement à l'IA le document canonique correspondant à la version souhaitée.
+
+Exemple :
+
+Referentiel-documentaire-canonique-v1.1.1.md
+
+ou
+
+Referentiel-documentaire-canonique-v1.1.1.pdf
+
+Ne pas présumer que l'IA pourra accéder automatiquement aux ressources externes.
 
 ## Un message de l'auteur
+
+### Quand ce référential a vu le jour?
+
 La création de cette version du référentiel documentaire a été créé à la suite de nombreux échanges avec CoPilot entre le 10 et le 13 juillet 2026.
+
+### Pourquoi construire ce référentiel?
+
 Une frustration grandissante à chaque utilisation de l'IA faisait en sorte qu'il me fallait une façon de poser des questions plus intelligeamment à une IA... qui somme toute n'est pas toujour très intelligente!
+
 Bref, d'où l'idée et l'intérêt de créer ce réfentiel documentaire... et en français.
+
+### Qui est véritablement l'auteur de ce référentiel?
+
 Puisqu'une bonne partie du référentiel a été rédigé par CoPilot, je ne peux m'approprier la paternité de tout ce qui est produit.  C'est pourquoi j'ai décidé d'appliquer une licence qui permettra à pas mal tout le monde de l'utiliser et de l'améliorer.
+
+### Le mot de la fin...
+
 Puisque c'est ma première "oeuvre" publique et ouverte et si vous souhaitez porter des améliorations, n'hésitez pas à me contacter.
+
 En espérant que ça vous aide!
