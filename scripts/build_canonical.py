@@ -2,8 +2,8 @@ from pathlib import Path
 import re
 
 ROOT = Path(".")
-ARTIFACTS = ROOT / "artifacts"
-ARTIFACTS.mkdir(exist_ok=True)
+COMPILED = ROOT / "compiled"
+COMPILED.mkdir(exist_ok=True)
 
 version = (ROOT / "VERSION.md").read_text(
     encoding="utf-8"
@@ -14,7 +14,7 @@ manifest = (ROOT / "MANIFEST.md").read_text(
 )
 
 output_file = (
-    ARTIFACTS /
+    COMPILED /
     f"Referentiel-documentaire-canonique-{version}.md"
 )
 
