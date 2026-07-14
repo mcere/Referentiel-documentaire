@@ -42,6 +42,10 @@ jobs:
       - name: Show generated file
         run: |
           head -40 compiled/Referentiel-documentaire-canonique-latest.md
+
+      - name: Search YAML separators
+        run: |
+          grep -n "^---$" compiled/Referentiel-documentaire-canonique-latest.md || true
           
       - name: Generate PDF
         run: |
