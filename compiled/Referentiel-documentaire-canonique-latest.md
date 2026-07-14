@@ -4,7 +4,7 @@ Version : v1.1.1
 ## Ressources du projet
 
 - [README](README.md)
-- LICENSE
+- LICENCE
 - CHANGELOG.md
 - [VERSION](VERSION.md)
 
