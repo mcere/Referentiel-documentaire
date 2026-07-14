@@ -81,8 +81,6 @@ Le manifeste prévaut sur :
 
 En cas de divergence :
 
-En cas de divergence :
-
 1. MANIFEST.md
 2. Documents normatifs
 3. Annexes
