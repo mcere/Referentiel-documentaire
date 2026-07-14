@@ -58,7 +58,7 @@ Les documents suivants ne font pas partie du référentiel normatif mais constit
 
 - [README](README.md)
 - LICENSE
-- [CHANGELOG](CHANGELOG.md)
+- CHANGELOG.md
 - [VERSION](VERSION.md)
 
 Ces documents fournissent respectivement :
