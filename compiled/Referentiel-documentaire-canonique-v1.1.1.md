@@ -9,13 +9,6 @@ Version : v1.1.1
 - [CHANGELOG](https://github.com/mcere/Referentiel-documentaire/blob/main/CHANGELOG.md)
 - [VERSION](https://github.com/mcere/Referentiel-documentaire/blob/main/VERSION.md)
 - [LICENCE](https://github.com/mcere/Referentiel-documentaire/blob/main/LICENCE)
-## Ressources du projet
-
-- [README](README.md)
-- LICENCE
-- CHANGELOG.md
-- [VERSION](VERSION.md)
-
 Ces documents ne font pas partie du référentiel normatif mais constituent la documentation officielle du projet.
 
 
