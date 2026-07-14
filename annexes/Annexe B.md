@@ -55,6 +55,7 @@ Les modèles doivent pouvoir être convertis sans perte majeure d'information.
 ## Structure
 
 ```text
+
 # THÈME
 
 ## AUTEUR ATTRIBUÉ
@@ -85,6 +86,7 @@ Les modèles doivent pouvoir être convertis sans perte majeure d'information.
 ## Exemple de gabarit
 
 ```text
+
 # THÈME
 
 Gestion du changement
@@ -141,6 +143,7 @@ Analyse documentaire
 ## Structure
 
 ```text
+
 # ÉTUDE
 
 ## AUTEUR
@@ -171,6 +174,7 @@ Analyse documentaire
 ## Exemple de gabarit
 
 ```text
+
 # ÉTUDE
 
 ## AUTEUR
@@ -225,6 +229,7 @@ Sources utilisées
 ## Structure
 
 ```text
+
 # AFFIRMATION
 
 ## ÉNONCÉ
@@ -249,6 +254,7 @@ Sources utilisées
 ## Exemple de gabarit
 
 ```text
+
 # AFFIRMATION
 
 ## ÉNONCÉ
@@ -291,6 +297,7 @@ Références utilisées
 ## Structure
 
 ```text
+
 # SOURCE DOCUMENTAIRE
 
 ## TYPE DE SOURCE
@@ -315,6 +322,7 @@ Références utilisées
 ## Exemple de gabarit
 
 ```text
+
 # SOURCE DOCUMENTAIRE
 
 ## TYPE DE SOURCE
@@ -357,6 +365,7 @@ Description et évaluation de la source
 ## Structure
 
 ```text
+
 # THÈME
 
 ## OBJECTIF
@@ -383,6 +392,7 @@ Description et évaluation de la source
 ## Tableau synthèse minimal
 
 ```text
+
 Thème
 
 Auteur
@@ -399,6 +409,7 @@ Niveau de complétude documentaire
 ## Exemple de gabarit
 
 ```text
+
 # THÈME
 
 Gestion du changement
@@ -449,6 +460,7 @@ Liste complète des références
 ## Structure
 
 ```text
+
 # SYNTHÈSE DOCUMENTAIRE
 
 ## RÉSUMÉ DES CONCLUSIONS
@@ -467,6 +479,7 @@ Liste complète des références
 ## Exemple de gabarit
 
 ```text
+
 # SYNTHÈSE DOCUMENTAIRE
 
 ## RÉSUMÉ DES CONCLUSIONS
@@ -497,6 +510,7 @@ Partiellement complet
 Tous les modèles définis dans la présente annexe doivent pouvoir être convertis vers :
 
 ```text
+
 Markdown
 
 DOCX
