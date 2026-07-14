@@ -38,17 +38,28 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Comment l'utiliser?
 
-Source :
-Utiliser le Référentiel documentaire canonique v1.0.2  [ou indiquer la version recherchée]
+
+Utiliser le Référentiel documentaire canonique v1.1.0
 
 Source :
 https://github.com/mcere/Referentiel-documentaire
 
-Le référentiel est défini par MANIFEST.md.
+Document canonique :
+releases/Referentiel-documentaire-canonique-v1.1.0.md
 
-### ou
-Utiliser la dernière release officielle du Référentiel documentaire.
-Source: https://github.com/mcere/Referentiel-documentaire
+Le document canonique constitue l'intégralité du référentiel.
+
+Appliquer toutes les directives contenues dans ce document.
+
+Source :
+Utiliser le Référentiel documentaire canonique v1.1.0  [ou indiquer la version recherchée]
+Document canonique :Referentiel-documentaire-canonique-v1.1.0.md
+
+### ou une version plus courte si l'IA a déjà eu accès au document
+Utiliser le Référentiel documentaire canonique v1.1.0
+
+Document canonique :
+Referentiel-documentaire-canonique-v1.1.0.md
 
 ## Un message de l'auteur
 La création de cette version du référentiel documentaire a été créé à la suite de nombreux échanges avec CoPilot entre le 10 et le 13 juillet 2026.
