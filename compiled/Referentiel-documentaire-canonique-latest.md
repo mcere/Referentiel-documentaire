@@ -2414,6 +2414,7 @@ Lorsqu'aucune conclusion robuste ne peut être retenue :
 utiliser explicitement la mention :
 
 ```text
+
 Consensus documentaire absent.
 ```
 
@@ -2424,6 +2425,7 @@ Consensus documentaire absent.
 Présenter les conflits selon la structure suivante :
 
 ```text
+
 Position A
 
 Position B
