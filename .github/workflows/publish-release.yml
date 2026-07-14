@@ -74,7 +74,7 @@ jobs:
 
           cp compiled/*.md release-assets/
           cp README.md release-assets/
-          cp LICENSE release-assets/
+          cp LICENCE release-assets/
           cp CHANGELOG.md release-assets/
           cp VERSION.md release-assets/
 
