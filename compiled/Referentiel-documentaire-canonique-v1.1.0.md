@@ -1,6 +1,15 @@
 # Référentiel documentaire compilé
 Version : v1.1.0
 
+## Ressources du projet
+
+- README.md
+- LICENSE
+- CHANGELOG.md
+- VERSION.md
+
+Ces documents ne font pas partie du référentiel normatif mais constituent la documentation officielle du projet.
+
 
 
 # MANIFESTE
