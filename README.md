@@ -42,7 +42,8 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 Utiliser le Référentiel documentaire canonique v1.1.0
 
 Source :
-https://github.com/mcere/Referentiel-documentaire
+Utiliser le Référentiel documentaire canonique v1.1.0  [ou indiquer la version recherchée]
+
 
 Document canonique :
 releases/Referentiel-documentaire-canonique-v1.1.0.md
@@ -51,9 +52,7 @@ Le document canonique constitue l'intégralité du référentiel.
 
 Appliquer toutes les directives contenues dans ce document.
 
-Source :
-Utiliser le Référentiel documentaire canonique v1.1.0  [ou indiquer la version recherchée]
-Document canonique :Referentiel-documentaire-canonique-v1.1.0.md
+
 
 ### ou une version plus courte si l'IA a déjà eu accès au document
 Utiliser le Référentiel documentaire canonique v1.1.0
