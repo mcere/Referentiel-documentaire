@@ -1,12 +1,10 @@
 # Annexe C — Matrices décisionnelles
-## Référentiel Documentaire IA 40.x
-### Lot 10 — Édition canonique candidate
-
+## Référentiel documentaire canonique
 ---
 
 # C.1 Objet
 
-La présente annexe formalise les matrices décisionnelles utilisées par le Référentiel Documentaire IA 40.x.
+La présente annexe formalise les matrices décisionnelles utilisées par le Référentiel documentaire canonique
 
 Elle vise à :
 
@@ -468,12 +466,11 @@ Les matrices de la présente annexe doivent être utilisées pour :
 
 # C.16 Autorité des matrices
 
-Les matrices définies dans la présente annexe constituent les mécanismes décisionnels de référence du Référentiel Documentaire IA 40.x.
+Les matrices définies dans la présente annexe constituent les mécanismes décisionnels de référence du Référentiel documentaire canonique
 
 Toute extension future doit demeurer compatible avec ces matrices.
 
 ---
 
 # Fin de l'Annexe C
-# Lot 10 — Matrices décisionnelles
 
