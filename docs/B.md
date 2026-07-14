@@ -27,12 +27,14 @@ Exemple
 Demande :
 
 ```text
+
 Valide cette citation.
 ```
 
 Directives minimales :
 
 ```text
+
 C Validation des sources
 D Attribution
 E Références
@@ -60,12 +62,14 @@ elles doivent être cumulées.
 Exemple :
 
 ```text
+
 Validation d'une citation traduite
 ```
 
 Active :
 
 ```text
+
 C
 D
 E
@@ -77,6 +81,7 @@ J
 et non seulement
 
 ```text
+
 G
 ```
 
@@ -89,6 +94,7 @@ G
 Appliquer :
 
 ```text
+
 C
 D
 E
@@ -102,6 +108,7 @@ J
 Appliquer :
 
 ```text
+
 C
 E
 F
@@ -114,6 +121,7 @@ J
 Appliquer :
 
 ```text
+
 C
 E
 H
@@ -125,6 +133,7 @@ J
 Appliquer :
 
 ```text
+
 C
 D
 E
@@ -140,6 +149,7 @@ J
 Appliquer :
 
 ```text
+
 C
 D
 E
@@ -160,6 +170,7 @@ le format approprié doit être choisi.
 Format :
 
 ```text
+
 H.3
 ```
 
@@ -168,6 +179,7 @@ H.3
 Format :
 
 ```text
+
 H.4
 ```
 
@@ -176,6 +188,7 @@ H.4
 Format :
 
 ```text
+
 H.5
 ```
 
@@ -190,6 +203,7 @@ choisir la combinaison documentaire la plus exigeante compatible avec la demande
 Principe :
 
 ```text
+
 En cas de doute,
 augmenter la rigueur documentaire.
 ```
@@ -209,12 +223,14 @@ Exemple :
 Après plusieurs validations de citations :
 
 ```text
+
 Donne-moi 10 autres citations.
 ```
 
 doit continuer à activer :
 
 ```text
+
 C
 D
 E
@@ -232,6 +248,7 @@ même si la nouvelle demande ne le précise pas explicitement.
 Lorsque les directives du Référentiel documentaire canonique sont utilisées, les métadonnées suivantes doivent pouvoir être identifiées :
 
 ```text
+
 Mode détecté
 
 Directives appliquées
@@ -250,6 +267,7 @@ le format documentaire retenu doit être indiqué.
 Exemple :
 
 ```text
+
 Format utilisé :
 
 H.3 Citation
@@ -275,6 +293,7 @@ vérifier que :
 L'ordre recommandé est :
 
 ```text
+
 A Gouvernance méthodologique
 
 B Sélection et application des directives
